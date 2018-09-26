@@ -5,3 +5,5 @@ aaaaaa
 vvvvvvv
 
 conflict fixed
+
+fast forward --no--ff
